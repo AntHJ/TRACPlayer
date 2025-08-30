@@ -1,3 +1,5 @@
+# TRAC Player
+
 ## The Retro Audio Collection Player
 * Utilises Lua Player Plus Vita (lpp-vita). [Learn more.](https://github.com/Rinnegatamante/lpp-vita)
 
