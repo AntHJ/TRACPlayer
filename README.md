@@ -33,4 +33,6 @@ You can install ElevenMPV from the TRAC Player app itself.
 ## Theme Support
 Day 1 release has 2 additional downloadable themes (Amiga / Xbox Blades)
 
+It may seam a little tricky at first but you can create your own themes, for a blank template [click here](https://github.com/AntHJ/TRACPlayer/blob/main/Blank%20Template.zip) and for an overview of the required files, [click here](https://github.com/AntHJ/TRACPlayer/blob/main/Theme-Information.txt)
+
 ![Themes](https://github.com/AntHJ/TRACPlayer/blob/main/Preview/OtherThemes.png)
