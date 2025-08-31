@@ -1,0 +1,37 @@
+Information for TRAC Player themes
+==================================
+
+ux0:
+└─ data/
+  └─ TRACPlayer/
+    └─ Themes/
+      └─ Theme Name/
+      		│
+      		└─ Animation
+      		│	  └─	Any .PNG files found here will be used in alphabetical order,
+      		│  	└─	numbered helps to keep the desired order (001, 002, 003 etc)
+      		│	  └─	the maximum file count is 120, but try to use less frames to
+      		│	  └─	lower the loading times and free up system memory.
+      		│
+      		└─ Backgrounds
+      		│	  └─	Info.png		png images will need to be in the
+      		│	  └─	List.png		exact resolution : 960 x 544
+      		│	  └─	MainManu.png
+      		│	  └─	MusicPlayer.png		Optional:
+      		│	  └─	PleaseWait.png		save as 8bit to reduce load times
+  	    	│	
+      		└─ MenuOptions
+      		│	  └─	1_Platform.png
+      		│	  └─	2_Letter.png		images can be trasparent as they
+      		│	  └─	3_SearchAlbum.png	are overlayed over the top of the
+      		│	  └─	4_SearchTrack.png	MainMenu.png background image
+      		│	  └─	5_RandomAlbun.png
+	      	│	  └─	6_RandomTrack.png	use the same 960 x 544 resolution
+	      	│	  └─	7_Favouites.png		to help overlay positioning
+	      	│
+	  	    └─ Default.txt
+
+			            Open your theme in TRAC Player and use the theme overides tool to
+			            help set your required colors, positioning and animation settings.
+			            the saved options will create the file Overides.txt
+			            Rename the file to Default.txt
